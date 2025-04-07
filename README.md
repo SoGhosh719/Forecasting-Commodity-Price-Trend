@@ -107,12 +107,3 @@ The methodology and analysis are supported by academic literature, industry repo
 - [Kaggle Datasets](https://www.kaggle.com/)
 
 For a complete list of references, see the `docs/references.pdf`.
-
----
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
---- 
-
-Feel free to adjust further to align with your specific goals!
